@@ -1,0 +1,7 @@
+Issue,Before,Action Taken,After
+Missing values in Age,177 missing values,Filled missing values using median,0 missing values
+Missing values in Cabin,687 missing values,Filled missing values with 'Unknown',0 missing values
+Missing values in Embarked,2 missing values,Filled missing values using mode,0 missing values
+Duplicate rows,0 duplicate rows,Checked for duplicates; no removal required,0 duplicate rows
+Text formatting,Potential leading/trailing spaces,Removed leading/trailing spaces from text columns,Text values standardized
+Data type validation,Validated original data types,Validated numerical and categorical data types,Data types validated
